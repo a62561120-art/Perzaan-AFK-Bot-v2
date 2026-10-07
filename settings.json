@@ -8,7 +8,7 @@
   "server": {
     "ip": "minecraftredemption.play.hosting",
     "port": 25707,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
