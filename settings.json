@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "minecraftredemption.play.hosting",
+    "port": 25707,
     "version": "1.21.1"
   },
   "position": {
